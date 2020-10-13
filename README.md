@@ -1,2 +1,2 @@
-# Java-for-Android
-Android development with Java
+# Android development with Java
+Small but fun android apps to try developing with java.
